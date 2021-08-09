@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(253, 226, 230);
+}
+.plate {
+    width: 900px;
+    height: 550px;
+    margin: auto
+    
+}
